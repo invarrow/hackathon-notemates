@@ -77,23 +77,9 @@ padding-left: 50px;}
 body{
     background-color:rgb(6, 20, 27);
 }
-<<<<<<< Updated upstream
-.footer{
-<link rel="stylesheet" href="style.css"> 
-        <link rel="stylesheet" href="<link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Licorice&display=swap" rel="stylesheet">
-        <section class="footer">
-            <div class="social">
-                <a href="#">< i class="instagram"></i></a>
-                <a href="#">< i class="twitter"></i></a>
-                <a href="#">< i class="whatsapp"></i></a>
-            </div>
-        </section>
-=======
 .socials{
     height: 100px;
     background-color: darkblue;
     color: white;
->>>>>>> Stashed changes
+
 }
