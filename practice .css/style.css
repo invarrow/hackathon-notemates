@@ -77,6 +77,7 @@ padding-left: 50px;}
 body{
     background-color:rgb(6, 20, 27);
 }
+<<<<<<< Updated upstream
 .footer{
 <link rel="stylesheet" href="style.css"> 
         <link rel="stylesheet" href="<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -89,4 +90,10 @@ body{
                 <a href="#">< i class="whatsapp"></i></a>
             </div>
         </section>
+=======
+.socials{
+    height: 100px;
+    background-color: darkblue;
+    color: white;
+>>>>>>> Stashed changes
 }
